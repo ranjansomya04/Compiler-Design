@@ -1,0 +1,17 @@
+#include<stdio.h>
+//sdfsdfsdfsdf
+int main(int argc, char *argv[]){
+    int asf;
+    //sdfsdfsdf
+    /*asdfsdfa
+    fsdfsdfa
+    fsfw*/
+    /*asdfsdfa
+    fsdfsdfa
+    yhyh
+    k
+    k
+    fsfw*/
+    return 0;
+    
+}
